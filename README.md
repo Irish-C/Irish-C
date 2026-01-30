@@ -6,6 +6,8 @@
 
 💬 Ask Me About **Movies**.
 
+💬 Ask Me About **Art**.
+
 ### My Favorite
 🤖 **Love, Death Robot** is my show.
 
