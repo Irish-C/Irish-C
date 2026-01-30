@@ -1,8 +1,19 @@
 # 💫 About Me
 🌱 I'm currently learning **Full Stack Development**.
 
+### Ask Me
 💬 Ask Me About **Science**.
 
+💬 Ask Me About **Movies**.
+
+### My Favorite
+🤖 **Love, Death Robot** is my show.
+
+🤖 **The Wild Robot** is my animation.
+
+🤖 **Doctor Sleep** is my movie.
+
+### Facts
 ⚡**Fun Fact:** Platypus fur exhibits blue-green biofluorescence. Perry the Platypus is REAL. 
 
 ⚡**Unfun Fact:** Quokka loses their joey pouches with baby in it as a distraction to predators and then they flee to create more offsprings.
